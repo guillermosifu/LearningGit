@@ -159,13 +159,13 @@ git show nombreTag
 ```
 Vincular repositorio remoto con repositorio local 
 
-git remote add origin https://github.com
+git remote add origin https://github.com/guillermosifu/LearningGit
 ```
 
 ```
 Cambiar URL del repositorio remoto
 
-$ git remote set-url origin https://github.com/
+$ git remote set-url origin https://github.com/guillermosifu/LearningGit
 ```
 
 ```
@@ -219,11 +219,11 @@ git fetch
 ```
 Clona un repositorio remoto en la rama por defecto
 
-git clone https://github.com/
+git clone https://github.com/guillermosifu/LearningGit
 ```
 
 ```
 Clona un repositorio remoto en una reama específica
 
-git clone --branch <rama> <https://github.com/>
+git clone --branch <rama> <https://github.com/guillermosifu/LearningGit>
 ```
